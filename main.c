@@ -20,7 +20,7 @@ void test()
 	do
 	{
 		menu();
-		printf("ÇëÊäÈë:>");
+		printf("Please Enter:>");
 		scanf("%d", &input);
 		switch (input)
 		{
